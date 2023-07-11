@@ -1,0 +1,28 @@
+[
+  {
+    "key": "sanalKartAktiflestir",
+    "webValue": "com.tom.hadi.test:id/button_activate",
+    "webType": "id"
+  },
+  {
+    "key": "kapat",
+    "webValue": "//*[@title='Kapat']",
+    "webType": "xpath"
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
